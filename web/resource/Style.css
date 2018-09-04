@@ -1,0 +1,12 @@
+body{
+
+}
+#LoginForm{
+    margin: auto;
+    padding-top: 30px;
+}
+#question{
+    margin: auto;
+    padding-top: 30px;
+    text-align: right;
+}

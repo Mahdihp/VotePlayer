@@ -1,0 +1,13 @@
+
+Asquid:S1989>"%Add a "try/catch" block for "doPost".(³æ£õùÿÿÿÿ
+Asquid:S1989>"%Add a "try/catch" block for "doPost".(³æ£õùÿÿÿÿ
+bsquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(ÊÂå¢
+tsquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ç€Î‰ûÿÿÿÿ
+tsquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ß­úÿÿÿÿ
+tsquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(É½îÿÿÿÿÿ
+Vsquid:S2441.":Make "User" serializable or don't store it in the session.(ôÄãÿÿÿÿÿ
+csquid:UselessImportCheck":Remove this unused import 'com.mahdi.service.dao.ItemDao'.(èíƒ³ûÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S11487"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Qsquid:S1161#":Add the "@Override" annotation above this method signature(‹¨¯¿
+Vsquid:S1161=":Add the "@Override" annotation above this method signature(Ïû©Öûÿÿÿÿ
